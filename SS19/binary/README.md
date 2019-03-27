@@ -13,6 +13,8 @@ You can play the recording of the session by typing
 
 	asciinema play gdb_example.cast
 
+The video is also available [on-line](https://asciinema.org/a/oqIa5fgeeQWGiP9zyBQSisX6e).
+
 ### Ret2Libc
 
 * Path: `ret2libc/`
